@@ -1,5 +1,7 @@
 # 💫 About Me:
-- I'm currently a student in my final semester at the Monterrey Institute of Technology (ITESM).<br>- Right now, I'm learning about Web 3.<br>- Fun Fact: I love hackathons, but I think what I like most about them is learning, being part of unique projects, and learning from my teammates.
+- I'm currently a student in my final semester at the Monterrey Institute of Technology (ITESM).<br>
+- Right now, I'm learning about Web 3.<br>
+- Fun Fact: I love hackathons, but I think what I like most about them is learning, being part of unique projects, and learning from my teammates.
 
 
 ## 🌐 Socials:
